@@ -52,7 +52,7 @@ You may NOT:
 Any commercial use of the OrbitBits name or logo requires explicit written permission.
 
 For inquiries, contact:
-contact.orbitbits@gmail.com
+contact@orbitbits.com
 
 ---
 
