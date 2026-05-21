@@ -4,4 +4,4 @@
 
 - [InkScape](https://inkscape.org) >= 1.3
 
-- Typography: [Montserrat (Google Fonts)](https://fonts.google.com/specimen/Montserrat)
+- Typography: [Baloo 2 (Google Fonts)](https://fonts.google.com/specimen/Baloo+2)
